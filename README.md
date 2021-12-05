@@ -8,6 +8,7 @@ para consumir os dados no json https://api.bcb.gov.br/dados/serie/bcdata.sgs.12/
 # Tecnologias utilizadas
 
 - Anaconda
+- Python
 - Jupyter Notebook
 - Pandas
 - Numpy
